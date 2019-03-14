@@ -1,14 +1,9 @@
 # python-practice
+```
 from google.colab import files
 uploaded = files.upload()
 用Google colab匯入檔案
-
-
-
-
-
-
-
+```
 ```
 P2:print(1457986 // 113)
    print(1457986 % 113)
