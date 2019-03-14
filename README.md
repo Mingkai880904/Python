@@ -5,6 +5,10 @@ uploaded = files.upload()
 用Google colab匯入檔案
 ```
 ```
+!ls              -->列出檔案
+!python test.py  -->執行test.py
+```
+```
 P2:print(1457986 // 113)
    print(1457986 % 113)
 ```
